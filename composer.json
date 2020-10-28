@@ -1,7 +1,7 @@
 {
     "name": "arnaudtriolet/crudite",
     "description": "CRUD Generator",
-    "license": "MIT"
+    "license": "MIT",
     "authors": [
         {
             "name": "Arnaud Triolet",
