@@ -4,7 +4,6 @@
 
 ### Installation
 Add it in your laravel project
-**not working yet**
 ```bash
 composer require arnaudtriolet/crudite
 ```
