@@ -1,0 +1,22 @@
+{
+    "name": "arnaudtriolet/crudite",
+    "description": "CRUD Generator",
+    "authors": [
+        {
+            "name": "Arnaud Triolet",
+            "email": "contact@arnaudtriolet.fr"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ArnaudTriolet\\Crudite\\ServiceProvider"
+            ],
+            "aliases": {
+                "Debugbar": "ArnaudTriolet\\Crudite\\Facade"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
