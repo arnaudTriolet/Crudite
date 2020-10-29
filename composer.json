@@ -12,10 +12,7 @@
         "laravel": {
             "providers": [
                 "ArnaudTriolet\\Crudite\\ServiceProvider"
-            ],
-            "aliases": {
-                "Debugbar": "ArnaudTriolet\\Crudite\\Facade"
-            }
+            ]
         }
     },
     "minimum-stability": "dev",
