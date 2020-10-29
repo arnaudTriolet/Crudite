@@ -1,6 +1,7 @@
 {
     "name": "arnaudtriolet/crudite",
     "description": "CRUD Generator",
+    "keywords": ["laravel", "crud", "generator"],
     "license": "MIT",
     "authors": [
         {
@@ -8,6 +9,11 @@
             "email": "contact@arnaudtriolet.fr"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "ArnaudTriolet\\Crudite\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
